@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "shevchik87\\acimage\\": "src",
+            "shevchik87\\acimage\\": ""
         }
     },
     "extra": {
