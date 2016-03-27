@@ -9,7 +9,7 @@
  * @since 2012-11-11
  */
 
-namespace shevchik87/AcImage;
+require_once 'geometry/exceptions.php';
 
 /**
  * Класс, описывающий цвет в RGB формате
