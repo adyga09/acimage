@@ -5,9 +5,8 @@
  * @author Антон Кургузенков <kurguzenkov@list.ru>
  */
 
-require_once 'exceptions.php';
-require_once 'Point.php';
-require_once 'Size.php';
+namespace shevchik87/AcImage/geometry;
+use shevchik87/AcImage;
 
 /**
  * Класс, описывающий прямоугольник
