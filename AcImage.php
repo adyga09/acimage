@@ -9,12 +9,7 @@
  * @since 2013-03-12
  */
 
-require_once 'geometry/Rectangle.php';
-require_once 'geometry/exceptions.php';
-require_once 'AcColor.php';
-require_once 'AcImageJPG.php';
-require_once 'AcImageGIF.php';
-require_once 'AcImagePNG.php';
+namespace shevchik87/AcImage;
 
 /**
  * Класс, описывающий изображение, и содержащий методы для работы с ним.
