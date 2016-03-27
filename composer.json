@@ -24,7 +24,8 @@
     },
     "autoload": {
         "psr-4": {
-            "shevchik87\\AcImage\\": "*"
+            "shevchik87\\AcImage\\": "",
+            "shevchik87\\AcImage\\": "geometry",
         }
     },
     "extra": {
