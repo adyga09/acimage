@@ -1,0 +1,38 @@
+{
+    "name": "shevchik87/AcImage",
+    "description": "Toolkit для ресайза и кропа изображений на PHP",
+    "type": "yii2-extension",
+    "keywords": [
+        "yii",
+        "extension",
+        "image",
+        "widget",
+        "yii2",
+        "yii 2",
+    ],
+    "homepage": "http://true-coder.ru/php/toolkit-dlya-resajza-i-kropa-izobrazhenij-na-php.html",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Загорцев Андрей",
+            "homepage": "http://true-coder.ru/",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "shevchik87\\AcImage\\": "*"
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.x-dev"
+        },
+        "asset-installer-paths": {
+            "bower-asset-library": "vendor/bower"
+        }
+    }
+}
