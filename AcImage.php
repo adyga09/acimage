@@ -10,6 +10,7 @@
  */
 
 namespace shevchik87/AcImage;
+use shevchik87/AcImage/geometry;
 
 /**
  * Класс, описывающий изображение, и содержащий методы для работы с ним.
