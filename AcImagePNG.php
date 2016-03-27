@@ -10,8 +10,8 @@
  * @since 2012-11-11
  */
 
-require_once 'AcImage.php';
-require_once 'geometry/exceptions.php';
+namespace shevchik87/AcImage;
+use shevchik87/AcImage/geometry;
 
 /**
  * Класс, описывающий изображение в формате png
