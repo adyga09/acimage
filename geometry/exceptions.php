@@ -8,7 +8,7 @@
  * @version 0.01
  * @since 2012-11-02
  */
- namespace shevchik87/AcImage/geometry;
+ namespace shevchik87\AcImage\geometry;
 
 class FileNotFoundException extends Exception
 {
