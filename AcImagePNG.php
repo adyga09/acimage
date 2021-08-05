@@ -10,8 +10,8 @@
  * @since 2012-11-11
  */
 
-namespace shevchik87/AcImage;
-use shevchik87/AcImage/geometry;
+namespace shevchik87\AcImage;
+use shevchik87\AcImage\geometry;
 
 /**
  * Класс, описывающий изображение в формате png
