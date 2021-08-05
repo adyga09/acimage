@@ -7,8 +7,8 @@
  * @version 0.01
  * @since 2012-11-09
  */
-namespace shevchik87/AcImage/geometry;
-use shevchik87/AcImage;
+namespace shevchik87\AcImage\geometry;
+use shevchik87\AcImage;
 
 /**
  * Класс, описывающий размер как пару высота-ширина.
