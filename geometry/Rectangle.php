@@ -5,8 +5,8 @@
  * @author Антон Кургузенков <kurguzenkov@list.ru>
  */
 
-namespace shevchik87/AcImage/geometry;
-use shevchik87/AcImage;
+namespace shevchik87\AcImage\geometry;
+use shevchik87\AcImage;
 
 /**
  * Класс, описывающий прямоугольник
