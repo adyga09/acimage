@@ -1,5 +1,5 @@
 {
-    "name": "shevchik87/acimage",
+    "name": "adyga09/acimage",
     "description": "Toolkit для ресайза и кропа изображений на PHP",
     "type": "yii2-extension",
     "homepage": "http://true-coder.ru/php/toolkit-dlya-resajza-i-kropa-izobrazhenij-na-php.html",
@@ -11,12 +11,9 @@
             "role": "Developer"
         }
     ],
-    "require": {
-        "yiisoft/yii2": "*"
-    },
     "autoload": {
         "psr-4": {
-            "shevchik87\\acimage\\": ""
+            "adyga09\\acimage\\": ""
         }
     },
     "extra": {
